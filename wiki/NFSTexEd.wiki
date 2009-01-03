@@ -1,3 +1,3 @@
 #labels nfs-texed,nfstexed,nfstextureeditor
-<h4>
-NFS-TexEd it a texture archive viewer/editor for: NFS Underground, Underground 2, Most Wanted, Carbon, ProStreet, Undercover.</h4>
+<a><h4>
+NFS-TexEd it a texture archive viewer/editor for: NFS Underground, Underground 2, Most Wanted, Carbon, ProStreet, Undercover.</h4></a> 
